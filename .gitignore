@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated output
+output/*
+!output/.gitkeep
+
+# Input data
+input/*
+!input/.gitkeep
+
+# Virtual environments
+venv/
+.venv/
